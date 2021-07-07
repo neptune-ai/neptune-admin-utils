@@ -1,0 +1,3 @@
+backoff==1.10.0
+click==8.0.1
+neptune-client==0.10.0
